@@ -1,0 +1,1 @@
+this is landing page from the odin project in foundation
